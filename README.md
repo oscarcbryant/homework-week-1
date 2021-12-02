@@ -2,7 +2,7 @@
 The objective of this project is to refactor existing code to ensure the make up meets good industry standards and best practice in web development.   
 This is a mock homework assignment, and within this, we have been hired by a marketing agency to make an existing website more accessible.
 We have successfully improved the syntax within both html and css properties. 
-This was achieved by using appropriate html sematic  and replacing them with less specific elements (ie <div>.
+This was achieved by using appropriate html sematic  and replacing them with less specific elements (ie <div>).
 Whilst specifying sematic elements in html, we were required to update the make up of the css code format as well so that our mapping was up to date and website wasof equally as accessible. 
 We learnt about the specifications of semantic elements, their application, and practices useful techniques in consolidating our css code so that we have a cleaner view of our code. 
 We faced challenges in completing the mapping between HTML updates and CSS. The procedure required some trial and error which in turn, provided us with clarity after multiple attempts. 
